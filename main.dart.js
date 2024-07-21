@@ -46782,7 +46782,7 @@ A.xq.prototype={
 ae(){return new A.QB(A.b(["Apple Iphone 15 pro max 256 gb","Apple Iphone 15 pro 128 gb - black","Apple Iphone 11 white","Apple Iphone 15 pro max 256 gb - titanium"],t.s),B.i)}}
 A.QB.prototype={
 J(a){var s=null,r=A.bD(a,s,t.w).w,q=t.D
-r=A.dh(s,A.mU(B.ck,A.b([A.je(A.jh(A.b([A.arV("images/dream_blue_2.png"),B.Ng,B.Ta,B.yz,new A.bO(B.fp,A.kB(!1,s,!0,A.a4R(A.dh(s,B.Le,B.r,s,s,new A.dm(B.k,s,A.Hx(B.dV,1),B.lz,s,s,B.aL),50,B.mL,B.fp,s),"Search",!1),s,!0,s,s,s,s,s,s,s,s,s,new A.ahQ(a),s,s,s,s),s)],q),B.ao,B.cI,B.a9),s,s)],q),B.V,B.cd),B.r,s,s,B.A8,223,s,s,r.a.a)
+r=A.dh(s,A.mU(B.ck,A.b([A.je(A.jh(A.b([A.arV("assets/images/dream_blue_2.png"),B.Ng,B.Ta,B.yz,new A.bO(B.fp,A.kB(!1,s,!0,A.a4R(A.dh(s,B.Le,B.r,s,s,new A.dm(B.k,s,A.Hx(B.dV,1),B.lz,s,s,B.aL),50,B.mL,B.fp,s),"Search",!1),s,!0,s,s,s,s,s,s,s,s,s,new A.ahQ(a),s,s,s,s),s)],q),B.ao,B.cI,B.a9),s,s)],q),B.V,B.cd),B.r,s,s,B.A8,223,s,s,r.a.a)
 return A.abu(s,B.k,A.jh(A.b([r,B.Nh,new A.bO(B.fp,A.jh(A.b([B.Tb,B.eL,new A.JN(B.Nn,new A.Ba(new A.ahR(this),4,!0,!0,!0,A.aBJ(),s),s,B.ai,!1,s,s,B.ik,!0,s,4,B.ap,B.km,s,B.V,s)],q),B.ct,B.aw,B.a9),s)],q),B.ct,B.aw,B.a9))}}
 A.ahQ.prototype={
 $0(){var s=this.a,r=A.kW(s,!1,t.j1)
@@ -46796,7 +46796,7 @@ $1(a){return new A.r0(null)},
 $S:311}
 A.ahR.prototype={
 $2(a,b){var s=null,r=this.a
-return A.kB(!1,s,!0,new A.HN(0,new A.cr(A.hn(12),B.zZ),new A.bO(B.DG,A.jh(A.b([A.arV("images/search2.png"),B.Nf,A.d7(r.d[b],s,s,s,s,B.QM,B.eP,s)],t.D),B.ao,B.cI,B.a9),s),s),s,!0,s,s,s,s,s,s,s,s,s,new A.ahO(r,a,b),s,s,s,s)},
+return A.kB(!1,s,!0,new A.HN(0,new A.cr(A.hn(12),B.zZ),new A.bO(B.DG,A.jh(A.b([A.arV("assets/images/search2.png"),B.Nf,A.d7(r.d[b],s,s,s,s,B.QM,B.eP,s)],t.D),B.ao,B.cI,B.a9),s),s),s,!0,s,s,s,s,s,s,s,s,s,new A.ahO(r,a,b),s,s,s,s)},
 $S:313}
 A.ahO.prototype={
 $0(){var s=this.b,r=A.kW(s,!1,t.j1)
@@ -47099,7 +47099,7 @@ Ya(a){var s=0,r=A.P(t.H),q=this,p,o,n,m
 var $async$r7=A.L(function(b,c){if(b===1)return A.M(c,r)
 while(true)switch(s){case 0:q.b=!0
 q.ac()
-p=A.fC("http://15.206.94.39:4000/generate_description")
+p=A.fC("https://pricefetcher.dreampot.in/generate_description")
 o=t.N
 n=A.av(["Content-Type","application/json"],o,o)
 s=2
@@ -47114,7 +47114,7 @@ uC(a){return this.akd(a)},
 akd(a){var s=0,r=A.P(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f
 var $async$uC=A.L(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:A.i6("inside noon")
-n=A.fC("http://15.206.94.39:4000/fetch_price_noon?product_name="+a)
+n=A.fC("https://pricefetcher.dreampot.in/fetch_price_noon?product_name="+a)
 o.c=!0
 o.ac()
 q=3
@@ -47154,7 +47154,7 @@ uB(a){return this.akc(a)},
 akc(a){var s=0,r=A.P(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f
 var $async$uB=A.L(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:A.i6("inside amazon")
-n=A.fC("http://15.206.94.39:4000/fetch_price?product_name="+a)
+n=A.fC("https://pricefetcher.dreampot.in/fetch_price?product_name="+a)
 o.c=!0
 o.ac()
 q=3
