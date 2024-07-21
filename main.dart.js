@@ -46782,7 +46782,7 @@ A.xq.prototype={
 ae(){return new A.QB(A.b(["Apple Iphone 15 pro max 256 gb","Apple Iphone 15 pro 128 gb - black","Apple Iphone 11 white","Apple Iphone 15 pro max 256 gb - titanium"],t.s),B.i)}}
 A.QB.prototype={
 J(a){var s=null,r=A.bD(a,s,t.w).w,q=t.D
-r=A.dh(s,A.mU(B.ck,A.b([A.je(A.jh(A.b([A.arV("assets/images/dream_blue_2.png"),B.Ng,B.Ta,B.yz,new A.bO(B.fp,A.kB(!1,s,!0,A.a4R(A.dh(s,B.Le,B.r,s,s,new A.dm(B.k,s,A.Hx(B.dV,1),B.lz,s,s,B.aL),50,B.mL,B.fp,s),"Search",!1),s,!0,s,s,s,s,s,s,s,s,s,new A.ahQ(a),s,s,s,s),s)],q),B.ao,B.cI,B.a9),s,s)],q),B.V,B.cd),B.r,s,s,B.A8,223,s,s,r.a.a)
+r=A.dh(s,A.mU(B.ck,A.b([A.je(A.jh(A.b([A.arV("assets/images/dashboard.png"),B.Ng,B.Ta,B.yz,new A.bO(B.fp,A.kB(!1,s,!0,A.a4R(A.dh(s,B.Le,B.r,s,s,new A.dm(B.k,s,A.Hx(B.dV,1),B.lz,s,s,B.aL),50,B.mL,B.fp,s),"Search",!1),s,!0,s,s,s,s,s,s,s,s,s,new A.ahQ(a),s,s,s,s),s)],q),B.ao,B.cI,B.a9),s,s)],q),B.V,B.cd),B.r,s,s,B.A8,223,s,s,r.a.a)
 return A.abu(s,B.k,A.jh(A.b([r,B.Nh,new A.bO(B.fp,A.jh(A.b([B.Tb,B.eL,new A.JN(B.Nn,new A.Ba(new A.ahR(this),4,!0,!0,!0,A.aBJ(),s),s,B.ai,!1,s,s,B.ik,!0,s,4,B.ap,B.km,s,B.V,s)],q),B.ct,B.aw,B.a9),s)],q),B.ct,B.aw,B.a9))}}
 A.ahQ.prototype={
 $0(){var s=this.a,r=A.kW(s,!1,t.j1)
